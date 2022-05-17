@@ -2,8 +2,8 @@
 react native ile oluşturulmuş bir yemek uygulaması.
 uygulama içerisinde açılışta  yemek kategorileri  geliyor dinamik olarak API 'dan axios ile verileri çekiyoruz 
 istediğimiz bir kategori seçimi yaptıktan sonra o kategori başlığı altında yemek listesi geliyor 
-ve yine iherhangi bir yemeği seçmeniz durumunda o yemğe ait detayları gösterem bir sayfaya yönlendiriyor sizi 
-ve alt tarafta ise bizi o yemeğe ait youtube kanalına yönlendiren bir butun bulunmakta.
+ve yine herhangi bir yemeği seçmeniz durumunda o yemğe ait detayları gösteren bir sayfaya yönlendiriyor sizi 
+ve alt tarafta ise bizi o yemeğe ait youtube kanalına yönlendiren bir buton bulunmakta.
 sayfalar arası geçişlerde loading animasyonları ve hata durumunda hatayı yaklayıp ekrana basan bir yapı mecut.
 <p float="left">
 <img src="https://user-images.githubusercontent.com/44464636/168903680-3cb1fc27-9bbf-46cd-9aa9-26bcd5b3c5fa.png" width="250"/>  
